@@ -1,0 +1,17 @@
+.body{
+    background: url(images/waves.jpg) fixed; 
+    }
+.maindiv{
+    width: 1000px;
+    margin: auto;
+    height: auto;
+    border: 1px red solid;
+    
+}
+.firstrow{
+    width: 1000px;
+    height: 900px;
+    background: url(images/headerbg.jpg);
+    background-size: cover;
+    
+}
